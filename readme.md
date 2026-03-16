@@ -14,4 +14,5 @@ git stash | git stash pop
 git remote add origin <>
 git remote -v
 git push origin main | git push -u origin main (then git push)
+git pull = git
 ```
